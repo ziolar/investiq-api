@@ -5,5 +5,4 @@ anthropic>=0.20.0
 python-pptx==0.6.23
 PyMuPDF==1.23.8
 openpyxl==3.1.2
-pandas==2.2.2
 python-dotenv==1.0.0
